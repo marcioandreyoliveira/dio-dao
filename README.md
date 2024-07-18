@@ -14,7 +14,7 @@
 
 [] Convide as pessoas para participar
 
-[] Lance um token de governança
+[X] Lance um token de governança
 
 [X] Crie um mecanismo de financiamento para captar os recursos da DAO
 
