@@ -18,8 +18,8 @@ interface IERC20 {
 
 contract ECToken is IERC20 {
 
-    string public constant name = "Empreendedor Cripto Coin";
-    string public constant symbol = "ECC";
+    string public constant name = "Empreendedor Cripto Token";
+    string public constant symbol = "ECT";
     uint public constant decimals = 2;
 
     mapping(address => uint256) balances;
